@@ -4,7 +4,7 @@
 - Upload Resume
 - AI-based analysis
 - AWS Lambda backend
-- CI/CD using GitHub Actions
+- CI/CD using GitHub  Actions
 
 ## Tech Stack
 - HTML, CSS, JS
